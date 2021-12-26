@@ -1,6 +1,3 @@
-from types import coroutine
-
-
 class Ejercicios:
     def Ejercicio1_4(self):
         a = int(input("ingrese 1er numero: "))
